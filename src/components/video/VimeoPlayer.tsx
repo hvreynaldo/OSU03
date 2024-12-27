@@ -12,8 +12,9 @@ const VimeoPlayer: FC = () => {
         frameBorder="0"
         allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
         title="IF Ad 4.mp4"
-      />
+        > </iframe>
     </div>
+    <script src="https://player.vimeo.com/api/player.js"> </script
   );
 };
 
